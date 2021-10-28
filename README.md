@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Githup Logo](/my-octocat-1633118384458.png)
+
+
+Hola soy alumno del IES Luis Vives de 1 DAM
+
+
 <!--
 **AlvaroMingoCastillo/AlvaroMingoCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
