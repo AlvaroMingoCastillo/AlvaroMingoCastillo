@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Githup Logo](/my-octocat-1633118384458.png)
+
+![my-octocat-1633118384458](https://user-images.githubusercontent.com/90860972/139239502-9963f36f-4c4d-4490-8a1a-10c4cce05b1f.png)
 
 
 Hola soy alumno del IES Luis Vives de 1 DAM
