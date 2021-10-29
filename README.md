@@ -6,8 +6,8 @@
 
 Hola soy alumno del IES Luis Vives de 1 DAM.
 Estas cansado de no poder aprender ingles, sabes por que no puedes, porque el ingles se enseña mal y punto.
-Tengo esperiencia en ser traductor de idiomas gracias a mi metodo que gracias a el fui el traductor de Obama. 
-
+Tengo experiencia en ser traductor de idiomas gracias a mi metodo que gracias a el fui el traductor de Obama. 
+(todo esto lo digo con sarcasmo)
 
 <!--
 **AlvaroMingoCastillo/AlvaroMingoCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
