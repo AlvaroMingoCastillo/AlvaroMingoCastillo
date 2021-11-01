@@ -14,21 +14,13 @@ Tengo experiencia en ser traductor de idiomas gracias a mi metodo que gracias a 
 <!--
 **AlvaroMingoCastillo/AlvaroMingoCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
 --------------------------------------------------------------------------------
 
 
-> ## <h2 align= "center"> §Contacto§:
+> ## <h2 align= "center"> Contactos:
 
 * Correo: alvaro.mingo@alumno.iesluisvives.org
 * Discord: Mincast#5184
@@ -36,3 +28,15 @@ Here are some ideas to get you started:
 * Twitter: Álvaro Mingo
 
 --------------------------------------------------------------------------------
+## <h2 align="center"> ◅ Datos Personales ▻
+> Álvaro Mingo Castillo
+>
+> 19 años.
+>
+> España.
+>
+> [IES Luis Vives.][website]
+--------------------------------------------------------------------------------
+> ## <h2 align= "center"> Gustos:
+Apasionado de los videojuegos y de las series, tambien me gusta leer, sobretodo libros de genero de fantasia.
+Tambien me gusta los deportes como el futbol, el baloncesto y el voleibol.
