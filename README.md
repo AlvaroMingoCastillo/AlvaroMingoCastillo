@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi soy Álvaro 👋
  <img loading="lazy" style="border-radius: 0.25rem;" 
       src="https://user-images.githubusercontent.com/90860972/139239502-9963f36f-4c4d-4490-8a1a-10c4cce05b1f.png" alt="Logo" width="300px" heigth="270px"
       borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
