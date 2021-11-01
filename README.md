@@ -25,3 +25,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+--------------------------------------------------------------------------------
+
+
+> ## <h2 align= "center"> §Contacto§:
+
+* Correo: alvaro.mingo@alumno.iesluisvives.org
+* Discord: Mincast#5184
+* Instagram: alvaromingo2002
+* Twitter: Álvaro Mingo
+
+--------------------------------------------------------------------------------
