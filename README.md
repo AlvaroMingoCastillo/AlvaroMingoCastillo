@@ -25,7 +25,7 @@ Tengo experiencia en ser traductor de idiomas gracias a mi metodo que gracias a 
 * Discord: Mincast#5184
 * Instagram: alvaromingo2002
 * Twitter: Álvaro Mingo
- * Correo: alvaromingo2002@gmail.com
+* Correo: alvaromingo2002@gmail.com
 
 --------------------------------------------------------------------------------
 ## <h2 align="center"> ◅ Datos Personales ▻
