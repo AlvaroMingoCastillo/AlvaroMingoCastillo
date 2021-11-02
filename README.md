@@ -28,14 +28,12 @@ Tengo experiencia en ser traductor de idiomas gracias a mi metodo que gracias a 
 * Correo: alvaromingo2002@gmail.com
 
 --------------------------------------------------------------------------------
-## <h2 align="center"> ◅ Datos Personales ▻
+## <h2 align="center">  Datos Personales 
 > Álvaro Mingo Castillo
 >
 > 19 años.
 >
 > España.
->
-> [IES Luis Vives.][website]
 --------------------------------------------------------------------------------
 > ## <h2 align= "center"> Gustos:
 Apasionado de los videojuegos y de las series, tambien me gusta leer, sobretodo libros de genero de fantasia.
