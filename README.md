@@ -31,7 +31,7 @@ Tengo experiencia en ser traductor de idiomas gracias a mi metodo que gracias a 
 ## <h2 align="center">  Datos Personales 
 > Álvaro Mingo Castillo
 >
-> 19 años.
+> 21 años.
 >
 > España.
 --------------------------------------------------------------------------------
