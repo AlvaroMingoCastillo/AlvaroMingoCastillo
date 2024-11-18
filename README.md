@@ -6,7 +6,7 @@
 
 
 
-Hola soy alumno del IES Luis Vives de 1 DAM.
+Hola soy alumno del Salesianos loyola.
 Estas cansado de no poder aprender ingles, sabes por que no puedes, porque el ingles se enseña mal y punto.
 Tengo experiencia en ser traductor de idiomas gracias a mi metodo que gracias a el fui el traductor de Obama. 
 (todo esto lo digo con sarcasmo)
@@ -31,7 +31,7 @@ Tengo experiencia en ser traductor de idiomas gracias a mi metodo que gracias a 
 ## <h2 align="center">  Datos Personales 
 > Álvaro Mingo Castillo
 >
-> 21 años.
+> 22 años.
 >
 > España.
 --------------------------------------------------------------------------------
