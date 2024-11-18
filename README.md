@@ -6,7 +6,7 @@
 
 
 
-Hola soy alumno del Salesianos loyola.
+Hola soy alumno de Salesianos loyola.
 Estas cansado de no poder aprender ingles, sabes por que no puedes, porque el ingles se enseña mal y punto.
 Tengo experiencia en ser traductor de idiomas gracias a mi metodo que gracias a el fui el traductor de Obama. 
 (todo esto lo digo con sarcasmo)
